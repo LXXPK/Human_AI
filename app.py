@@ -15,7 +15,7 @@ from streamlit_webrtc import (
 )
 
 # --- Configure Google Gemini API ---
-genai.configure(api_key="AIzaSyAQjVwq8SSUxUrM5-QwlX59768eUEuLlkE")  # Set your API key from environment variable
+genai.configure(api_key="")  # Set your API key from environment variable
 
 generation_config = {
     "temperature": 1,
