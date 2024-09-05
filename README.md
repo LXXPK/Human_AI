@@ -6,10 +6,10 @@
 <p>By leveraging facial emotion recognition, the application identifies users' emotional states and adapts its responses accordingly. This approach makes interactions more engaging, effective, and humanlike.
 </p>
 <h4>Emotion Chat</h4>
-<img src="https://github.com/user-attachments/assets/7edd45f0-7393-4600-80f4-7179d3bed78a">
+<img src="https://github.com/user-attachments/assets/7edd45f0-7393-4600-80f4-7179d3bed78a" alt="Screenshot">
 
 <h4>Real Time Emotion Detection</h4>
-![image](https://github.com/user-attachments/assets/0cd85c42-e517-4d24-bea6-853c30ea4ad6)
+<img src="https://github.com/user-attachments/assets/0cd85c42-e517-4d24-bea6-853c30ea4ad6" alt="screenshot">
 
 
  <b>Features</b>
