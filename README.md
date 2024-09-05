@@ -1,4 +1,4 @@
-<h1>Human AI  Emotionally Intelligent Chat Application </h1>h1>
+<h1>Human AI  Emotionally Intelligent Chat Application </h1>
 
  <h4>Project Overview</h4>
 <p>In the realm of digital communication, enhancing user experience through emotionally intelligent interactions is crucial. Human AI introduces an advanced chat application that integrates artificial intelligence (AI) and realtime emotion detection to deliver personalized and empathetic user interactions.
