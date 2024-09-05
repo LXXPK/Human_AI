@@ -28,7 +28,7 @@
  <li>Speech Recognition & TexttoSpeech: For enabling voice input and auditory responses.</li>
 </ul>
 
- <h4>How It Works</h4>h4>
+ <h4>How It Works</h4>
  <p></p>Emotion Detection: Using OpenCV and a pretrained CNN model, the application detects facial expressions and classifies them into predefined emotions.<br>
  Adaptive AI: Based on the detected emotion, the Google Gemini API generates empathetic and contextually relevant responses.<br>
  Multimodal Interaction: Users can communicate with the AI via text or voice input, with responses provided either visually or through texttospeech.</p>
